@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import joblib
 pip freeze > requirements.txt
+pip list --format=freeze > requirements.txt
 poly_reg= joblib.load("poly_reg_model")
 pfull_pipeline=joblib.load("pfull_pipeline")
 
