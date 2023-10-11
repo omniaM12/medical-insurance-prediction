@@ -6,8 +6,7 @@ import joblib
  
 poly_reg= joblib.load("poly_reg_model")
 pfull_pipeline=joblib.load("pfull_pipeline")
-url="https://github.com/omniaM12/medical_insurance/blob/main/insurance.csv"
-medins=pd.read_csv(url,index_col=0)
+medins=pd.read_csv("insurance.csv")
 st.title("prediction of medical insurance charges")
 st.write("""this is app predics the insurance charges""")
 age=st.slider("age", float(medins["age"].min()),float(medins["age"].max()))                     
