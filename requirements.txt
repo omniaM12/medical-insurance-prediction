@@ -3,7 +3,6 @@ altair==5.1.1
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
 appdirs==1.4.4
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644551690056/work
 arrow @ file:///opt/conda/conda-bld/arrow_1649166651673/work
 astroid @ file:///C:/Windows/TEMP/abs_b0dtxgpicv/croots/recipe/astroid_1659023126745/work
