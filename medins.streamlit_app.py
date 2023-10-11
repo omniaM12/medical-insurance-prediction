@@ -7,7 +7,7 @@ import joblib
 poly_reg= joblib.load("poly_reg_model")
 pfull_pipeline=joblib.load("pfull_pipeline")
 
-medins=pd.read_csv("D:/insurance.csv")
+medins=pd.read_csv("https://github.com/omniaM12/medical_insurance/blob/main/insurance.csv")
 medins=medins.rename(columns={'age':"age", 'sex':'sex',
                               'bmi':"bmi", "children":"children","region": "region", "smoker":"smoker"})
 st.title("prediction of medical insurance charges")
