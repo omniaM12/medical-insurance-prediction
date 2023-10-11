@@ -4,14 +4,13 @@ anaconda-client==1.11.0
 anaconda-navigator==2.3.1
 appdirs==1.4.4
 joblib==1.3.2
-numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
 openpyxl==3.0.10
-pandas @ file:///C:/b/abs_cdcgk91igc/croots/recipe/pandas_1663772960432/work
 pivottablejs==0.9.0
 plotly @ file:///C:/ci/plotly_1658142442431/work
 scikit-image @ file:///C:/ci/scikit-image_1648214340990/work
 scikit-learn==1.3.0
 scikit-learn-intelex==2021.20221004.171935
+streamlit==1.26.0
 scipy==1.9.1
 Scrapy @ file:///C:/Windows/TEMP/abs_f50e21j997/croots/recipe/scrapy_1659598707153/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
