@@ -13,10 +13,10 @@ medins=medins.rename(columns={'age':"age", 'sex':'sex',
 st.title("prediction of medical insurance charges")
 st.write("""this is app predics the insurance charges""")
 
-children=st.checkbox("children",("1", "2", "3", "4","5")
-age=st.slider("age", float(medins["age"].min()),float(medins["age"].max()))
+age=st.slider("age", float(medins["age"].min()),float(medins["age"].max()))                     
 bmi=st.slider("bmi", float(medins["bmi"].min()),float(medins["bmi"].max()))
 region= st.selectbox("region",("southeast","southwest","northwest", "northeast"))
+children=st.checkbox("children",("1", "2", "3", "4","5")
 sex= st.selectbox("sex",("male","female"))
 smoker= st.selectbox("smoker",("yes","no"))
 #dict
