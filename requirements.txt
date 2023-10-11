@@ -4,8 +4,6 @@ anaconda-client==1.11.0
 anaconda-navigator==2.3.1
 appdirs==1.4.4
 joblib==1.3.2
-jupyter-console @ file:///opt/conda/conda-bld/jupyter_console_1647002188872/work
-jupyter-server @ file:///C:/Windows/TEMP/abs_d3c42c59-765d-4f9b-9fa3-ad5b1369485611i_yual/croots/recipe/jupyter_server_1658754493238/work
 Markdown @ file:///C:/ci/markdown_1614364082838/work
 markdown-it-py==3.0.0
 matplotlib @ file:///C:/ci/matplotlib-suite_1660169687702/work
