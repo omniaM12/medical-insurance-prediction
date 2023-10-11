@@ -3,8 +3,6 @@ altair==5.1.1
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
 appdirs==1.4.4
-ipykernel @ file:///C:/b/abs_21ykzkm7y_/croots/recipe/ipykernel_1662361803478/work
-ipython @ file:///C:/Windows/TEMP/abs_45b5zb1l7q/croots/recipe/ipython_1659529855872/work
 joblib==1.3.2
 jupyter @ file:///C:/Windows/TEMP/abs_56xfdi__li/croots/recipe/jupyter_1659349053177/work
 jupyter-console @ file:///opt/conda/conda-bld/jupyter_console_1647002188872/work
