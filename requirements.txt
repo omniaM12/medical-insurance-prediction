@@ -3,20 +3,7 @@ altair==5.1.1
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
 appdirs==1.4.4
-beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650293025093/work
-binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
-bitarray @ file:///C:/ci/bitarray_1657729621682/work
-bkcharts==0.2
-black @ file:///C:/ci/black_1660239974023/work
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-blinker==1.6.2
-fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
-filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
-flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
-fonttools==4.25.0
-fsspec @ file:///C:/Windows/TEMP/abs_a2mhnomvfy/croots/recipe/fsspec_1659972224540/work
-future @ file:///C:/ci/future_1607568713721/work
 gensim @ file:///C:/ci/gensim_1646825438310/work
 gitdb==4.0.10
 GitPython==3.1.32
