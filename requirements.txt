@@ -2,7 +2,6 @@
 altair==5.1.1
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
-anyio @ file:///C:/ci/anyio_1644481921011/work/dist
 appdirs==1.4.4
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644551690056/work
@@ -26,7 +25,6 @@ bkcharts==0.2
 black @ file:///C:/ci/black_1660239974023/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker==1.6.2
- 
 fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
 filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
 flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
